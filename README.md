@@ -3,9 +3,6 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/kamushadenes" target="_blank">
-    <img alt="Twitter: kamushadenes" src="https://img.shields.io/twitter/follow/kamushadenes.svg?style=social" />
-  </a>
 </p>
 
 > A set of modules to provide at-glance information, focused on Sway and WayBar
