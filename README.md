@@ -1,11 +1,9 @@
 <h1 align="center">SwayIT</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
+<p align="center">
+A set of modules to provide at-glance information, focused on Sway and WayBar
 </p>
 
-> A set of modules to provide at-glance information, focused on Sway and WayBar
+<hr> 
 
 ## Install
 
