@@ -76,3 +76,5 @@ swayit command <module> [args]
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+<a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" alt="kamushadenes" /></a>
