@@ -72,9 +72,3 @@ swayit command <module> [args]
 * Twitter: [@kamushadenes](https://twitter.com/kamushadenes)
 * Github: [@kamushadenes](https://github.com/kamushadenes)
 * LinkedIn: [@kamushadenes](https://linkedin.com/in/kamushadenes)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.buymeacoffee.com/kamushadenes"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" alt="kamushadenes" /></a>
