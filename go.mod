@@ -24,8 +24,7 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/ssimunic/gosensors v0.0.0-20170414000417-e7ab9a4e799b
 	github.com/stretchr/testify v1.6.1 // indirect
-	golang.org/x/crypto v0.21.0
-	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/crypto v0.31.0
 	gopkg.in/toast.v1 v1.0.0-20180812000517-0a84660828b2 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
